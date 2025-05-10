@@ -3,7 +3,7 @@
 Analista de Dados e apaixonado por contar histórias com dados. Atualmente estudo Ciência de Dados na DS Community, trabalho no varejo na área de Planejamento Comercial, tenho experiência em Logística, Melhoria de Processos e Markting de Influência e muito mais.
 
 - 🎲 **Analista de Dados** na [OLX](https://www.linkedin.com/in/gustavo-correard/).
-- 👨‍💻 Estudante de **Ciência de Dados** da [São Judas Tadeu](https://www.linkedin.com/school/universidade-sao-judas/posts/?feedView=all).    
+- 👨‍💻 Estudante de Pós-Graduação em **Ciência de Dados** da [São Judas Tadeu](https://www.linkedin.com/school/universidade-sao-judas/posts/?feedView=all).    
 - 🏋️‍♀️ Apaixonado por **Musculação** e praticante a 6 anos.    
 - 💻 Atualmente focado em:
   
